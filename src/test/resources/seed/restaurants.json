@@ -1,0 +1,15 @@
+[
+    {
+        "name": "RestaurantName",
+        "id": "id",
+        "image_url": "https://some.url",
+        "categories": [
+            {
+                "alias": "alias",
+                "title": "title"
+            }
+        ],
+        "price": "$$",
+        "rating": 5.0
+    }
+]
